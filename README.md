@@ -1,0 +1,1 @@
+Please see the [built website](https://charlie-xiao.github.io/pst-primary-sidebar-bug/) for details. Related to [pydata/pydata-sphinx-theme#1662](https://github.com/pydata/pydata-sphinx-theme/issues/1662).
