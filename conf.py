@@ -24,6 +24,6 @@ html_static_path = ["_static"]
 
 html_theme_options = {
     "secondary_sidebar_items": {
-        "issue-xxx/remove_with_conf": [],
+        "issue-1686/remove_with_conf": [],
     }
 }
