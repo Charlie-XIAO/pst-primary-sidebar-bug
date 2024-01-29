@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = "PST 0.15.2 Test Website"
+project = "Testing"
 copyright = "2024, Yao Xiao"
 author = "Yao Xiao"
 
@@ -21,3 +21,9 @@ exclude_patterns = ["_build"]
 
 html_theme = "pydata_sphinx_theme"
 html_static_path = ["_static"]
+
+html_theme_options = {
+    "secondary_sidebar_items": {
+        "issue-xxx/remove_with_conf": [],
+    }
+}
