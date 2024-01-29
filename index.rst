@@ -7,4 +7,4 @@ reproducible examples of the issues I have encountered with the theme.
 .. toctree::
 
    issue-1662
-   issue-xxx
+   issue-xxx/index
